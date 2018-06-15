@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to bottom right, blue, grey, white);
+    height: 1000px;
+}
+
+#game {
+    font-size: 40px;
+    margin-left: 25%;
+    margin-top: 10%;
+    font-family: "Lucida Console", Monaco, monospace;
+}
+
+img {
+    width: 550px;
+    margin-top: 25px;
+    margin-left: 100px;
+}
